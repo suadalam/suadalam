@@ -17,6 +17,14 @@
 <table>
 <tr>
 <td>
+<a href="https://github.com/suad52/CramClub"><b>cram club</b></a> · <a href="https://cramclub.study">visit</a>
+<code>typescript</code> <code>next.js</code> <code>three.js</code> <code>colyseus</code> <code>gemini</code>
+<br>
+built for hack western 13. a cozy 3d library where you study next to other students: walk in as your own avatar, take a seat, start a pomodoro, and ask ms. fenwick, the ai librarian, for sources and lessons
+</td>
+</tr>
+<tr>
+<td>
 <a href="https://github.com/anujmish1229/build"><b>poltar</b></a>
 <code>swift</code> <code>swiftui</code> <code>roomplan</code> <code>arkit</code> <code>scenekit</code>
 <br>
