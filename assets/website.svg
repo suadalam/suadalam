@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="36" viewBox="0 0 116 36" role="img" aria-label="website">
+<rect x="0.5" y="0.5" width="115" height="35" rx="10" fill="#0d1117" stroke="#30363d"/>
+<g transform="translate(14,9)" fill="none" stroke="#e3b341" stroke-width="1.6" stroke-linecap="round"><circle cx="9" cy="9" r="8"/><ellipse cx="9" cy="9" rx="3.6" ry="8"/><path d="M1.4 6.4 H16.6 M1.4 11.6 H16.6"/></g>
+<text x="42" y="23.2" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#e6edf3" textLength="58.8" lengthAdjust="spacingAndGlyphs">website</text>
+</svg>
